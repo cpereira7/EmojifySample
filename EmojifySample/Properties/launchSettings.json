@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmojifySample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
